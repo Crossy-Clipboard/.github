@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-Welcome to Crossy Clipboard's GitHub Org. Currently, most repositories are *private* and *WIP*s. 
+Welcome to Crossy Clipboard's GitHub Org. Currently, all repositories are *private* and *WIP*s. 
 
-Electron Client:
-
-[![Crossy-Electron](https://github.com/Crossy-Clipboard/crossy-electron/actions/workflows/justbuild.yml/badge.svg)](https://github.com/Crossy-Clipboard/crossy-electron/actions/workflows/justbuild.yml)
+We are now in early beta! Join us over at https://crossyclip.com.
 
 See you around!
